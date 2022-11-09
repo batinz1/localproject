@@ -1,0 +1,8 @@
+line added after merge from bugfix branch
+
+same line added in master as in dev branch at same time
+
+line added firstly by dev branch
+
+same place line added in master
+new line add to check conflict
